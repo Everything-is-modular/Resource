@@ -1,0 +1,14 @@
+.Cards_Wrapper {
+    max-width: 15%;
+    height: 150px;
+    box-shadow: 5px 1px 10px 10px grey ;
+    display:flex;
+    justify-content: center;
+    align-self: center;
+    
+}
+.Card {
+    width:100%;
+    box-shadow: 5px 1px 10px 10px pink inset;
+    text-align: center;
+}
